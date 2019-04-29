@@ -1,4 +1,7 @@
 //package os_part2;
+//Author:		Yaseen Hull
+//Assignment: 	OS2 part 2 producer-consumer problem using semaphores
+//Date:			29/04/2019
 
 import java.util.Random;
 
